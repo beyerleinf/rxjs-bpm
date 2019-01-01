@@ -1,0 +1,13 @@
+button {
+    display: block;
+}
+
+button.tap {
+    width: 100px;
+    height: 100px;
+}
+
+button.reset {
+    margin-top: 10px;
+    width: 100px;
+}
